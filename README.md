@@ -8,7 +8,7 @@
 2. 找到客户端在局域网中的 ip
 
 3. 客户端设置代理到 ip:8888
-![trust.jpg](https://raw.githubusercontent.com/zh-h/pxclawer/docs/images/trust.jpg)
+![https://github.com/zh-h/pxclawer/blob/master/docs/images/trust.jpg?raw=true](https://github.com/zh-h/pxclawer/blob/master/docs/images/trust.jpg?raw=true)
 
 4. 访问 http://ip:8888/trust 安装证书，并且设置证书授信
 
